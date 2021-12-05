@@ -5,4 +5,5 @@ building systems from the ground up or modernizing existing systems so they can 
 
 I lead a small development team at Bintelligence, we create custom solutions for our clients. 
 
-You can reach me via social media, [Stack Overflow](https://stackoverflow.com/users/44056/jeroen-landheer), or just send me a mail at: `my-first-name @ my-last-name dot com`
+You can reach me via social media, [Stack Overflow](https://stackoverflow.com/users/44056/jeroen-landheer), just send me an email (my email address is in my profile) or contact me via Teams. 
+
